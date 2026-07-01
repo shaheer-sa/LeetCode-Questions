@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shaheer-sa/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
