@@ -5,14 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        result=[]
-        l=0
-        r=len(numbers)-1
-        while l<r:
-            add=numbers[l]+numbers[r]
-            if add>target:
-                r-=1
-            elif add<target:
-                l+=1
-            else:
-                return [l+1,r+1]
+        myMap={}
+        index=0
+        for i in numbers:
+            if i in myMap:
+                return [myMap[i]+1,index+1]
+            myMap[target-i]=index
+            index+=1
