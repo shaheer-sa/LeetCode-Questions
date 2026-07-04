@@ -1,6 +1,3 @@
-#pragma GCC optimize("Ofast,unroll-loops,fast-math")
-#pragma GCC target("avx,avx2,fma,sse4,popcnt,lzcnt,bmi,bmi2")
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -93,9 +90,3 @@ public:
         return result;
     }
 };
-int speedUp = [] {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 0;
-}();
